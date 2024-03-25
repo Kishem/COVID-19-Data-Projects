@@ -1,4 +1,3 @@
-# Kishem Tanoo - Data Analysis Portfolio
-Hi, I'm Kishem!
+# COVID-19 Data Portfolio Project
 
-This repository serves as a platform to showcase my skills by sharing some of the projects I've worked on and a way for me to track my own progress in the field of data analytics. I am proficient in advanced excel, SQL, the R language and Tableau and have used these skills to complete the projects you find here.
+This repository contains files relating to COVID-19 projects where I have used SQL to identify trends in deaths and vaccinations.
